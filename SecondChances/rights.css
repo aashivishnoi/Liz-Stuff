@@ -1,0 +1,61 @@
+h1{
+  display: flex;
+  color:black;
+  justify-content: center;
+  font-family: sans-serif;
+}
+h2{
+  display: flex;
+  color:black;
+  justify-content: center;
+  font-family: sans-serif;
+}
+.rightspics{
+  display: flex;
+  justify-content: center;
+}
+.Title{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: Times;
+}
+
+.subtitle{
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-size: 30px;
+  font-family: Times
+}
+.intro{
+  display: flex;
+  color: black;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+.Police_rights{
+  display: flex;
+  color:black;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+.picture1{
+  width: auto;
+  height: 20px;
+  margin-left: 50px;
+}
+.picture2{
+  width: auto;
+  height: 20;
+  /* margin-left: 500px; */
+}
+.student{
+  display: flex;
+  color:black;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 50px;
+}

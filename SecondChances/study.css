@@ -1,0 +1,25 @@
+h1{
+  display: flex;
+  color:black;
+  justify-content: center;
+  font-family: sans-serif;
+}
+h2{
+  display: flex;
+  color:black;
+  justify-content: center;
+  font-family: sans-serif;
+}
+.Title{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: Times;
+}
+.subtitle{
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-size: 30px;
+  font-family: Times
+}
